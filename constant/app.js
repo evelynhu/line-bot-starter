@@ -1,0 +1,6 @@
+'use strict';
+
+module.exports = {
+  PORT: 9487,
+  CHANNEL_ACCESS_TOKEN: 'ZmClZgL8oF1YLNJu1eXG7qEwA6V15FQCjCQP6/AvjlrbWYlVo9YB/KrUVSP9zvIQzfUsKEpk1LKL0Rn5FpdOOZ8pg4VaMemAl+y9Ozq5Go/z6rFRyU+IsIPpg5EGYmQvhw29EVPNNUSddfyn8QRqtwdB04t89/1O/w1cDnyilFU=',
+};
